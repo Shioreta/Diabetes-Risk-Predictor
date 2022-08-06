@@ -1,0 +1,138 @@
+# USE THIS AS A GUIDE WHEN INPUTTING VALUES INTO THE SYSTEM
+
+High BP:
+    [0] No 
+    [1] Yes
+
+High Cholesterol:
+    [0] No 
+    [1] Yes
+
+Cholesterol Check:
+    [0] No 
+    [1] Yes
+
+BMI:
+    # BMI needs to be computed using HEIGHT and WEIGHT
+    # use online BMI calculator
+
+Smoker:
+    [0] No 
+    [1] Yes
+
+Stroke:
+    [0] No 
+    [1] Yes
+
+Heart Disease or Attack:
+    [0] No 
+    [1] Yes
+
+Physical Activity:
+    [0] No 
+    [1] Yes
+
+Daily Fruits Intake:
+    [0] No 
+    [1] Yes
+
+Daily Veggies Intake:
+    [0] No 
+    [1] Yes
+
+Heavy Alcohol Consumption:
+    [0] No 
+    [1] Yes
+
+Any Healthcare (e.g. HMO):
+    [0] No 
+    [1] Yes
+
+Cant Afford Doc Checkup:
+    [0] No 
+    [1] Yes
+
+General Health:
+    [1] excellent
+    [2] very good
+    [3] good
+    [4] fair
+    [5] poor
+
+Mental Health:
+    [0] 0 day                       [16] 16 days
+    [1] 1 day                       [17] 17 days
+    [2] 2 days                      [18] 18 days
+    [3] 3 days                      [19] 19 days
+    [4] 4 days                      [20] 20 days
+    [5] 5 days                      [21] 21 days
+    [6] 6 days                      [22] 22 days
+    [7] 7 days                      [23] 23 days
+    [8] 8 days                      [24] 24 days
+    [9] 9 days                      [25] 25 days
+    [10] 10 days                    [26] 26 days
+    [11] 11 days                    [27] 27 days
+    [12] 12 days                    [28] 28 days
+    [13] 13 days                    [29] 29 days
+    [14] 14 days                    [30] 30 days
+    [15] 15 days
+
+Physical Health:
+    [0] 0 day                       [16] 16 days
+    [1] 1 day                       [17] 17 days
+    [2] 2 days                      [18] 18 days
+    [3] 3 days                      [19] 19 days
+    [4] 4 days                      [20] 20 days
+    [5] 5 days                      [21] 21 days
+    [6] 6 days                      [22] 22 days
+    [7] 7 days                      [23] 23 days
+    [8] 8 days                      [24] 24 days
+    [9] 9 days                      [25] 25 days
+    [10] 10 days                    [26] 26 days
+    [11] 11 days                    [27] 27 days
+    [12] 12 days                    [28] 28 days
+    [13] 13 days                    [29] 29 days
+    [14] 14 days                    [30] 30 days
+    [15] 15 days
+
+Difficulty Walking:
+    [0] No 
+    [1] Yes
+
+Sex:
+    [0] Female
+    [1] Male
+
+Age Group:
+    [1] 18 - 24
+    [2] 25 - 29
+    [3] 30 - 34
+    [4] 35 - 39
+    [5] 40 - 44
+    [6] 45 - 49
+    [7] 50 - 54
+    [8] 55 - 59
+    [9] 60 - 64
+    [10] 65 - 69
+    [11] 70 - 74
+    [12] 75 - 79
+    [13] 80 or older
+
+
+Annual Income Range:
+    [1] Less than ₱500,000
+    [2] ₱500,000 to less than ₱800,000
+    [3] ₱800,000 to less than ₱1,100,000
+    [4] ₱1,100,000 to less than ₱1,300,000
+    [5] ₱1,300,000 to less than ₱1,900,000
+    [6] ₱1,900,000 to less than ₱2,700,000
+    [7] ₱2,700,000 to less than ₱4,100,000
+    [8] ₱4,100,000 or more
+
+
+
+
+
+
+
+
